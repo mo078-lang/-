@@ -1,0 +1,91 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "26.5",
+    "data_type" : "payment_cards",
+    "export_time_usec" : 1779968570476296,
+    "schema_version" : 1
+  },
+  "payment_cards" : [
+    {
+      "card_number" : "4146275898082842",
+      "card_name" : "‏⁨Visa⁩ ‏(3)",
+      "cardholder_name" : "‏⁨Visa⁩ ‏(3)",
+      "card_expiration_month" : 9,
+      "card_expiration_year" : 2030,
+      "card_last_used_time_usec" : 1757698948709806
+    },
+    {
+      "card_number" : "5294155264999752",
+      "card_name" : "‏⁨⁨Mastercard⁩⁩ الخاص بـ ⁨Musa asiri⁩",
+      "cardholder_name" : "‏⁨⁨Mastercard⁩⁩ الخاص بـ ⁨Musa asiri⁩",
+      "card_expiration_month" : 8,
+      "card_expiration_year" : 2026,
+      "card_last_used_time_usec" : 1755101531802665
+    },
+    {
+      "card_number" : "4173239067389152",
+      "card_name" : "‏⁨⁨Visa⁩⁩ الخاص بـ ⁨MOUSA ASIRI⁩",
+      "cardholder_name" : "‏⁨⁨Visa⁩⁩ الخاص بـ ⁨MOUSA ASIRI⁩",
+      "card_expiration_month" : 2,
+      "card_expiration_year" : 2029,
+      "card_last_used_time_usec" : 1755101507185160.2
+    },
+    {
+      "card_number" : "4847831772866825",
+      "card_name" : "‏⁨Visa⁩ ‏(2)",
+      "cardholder_name" : "‏⁨Visa⁩ ‏(2)",
+      "card_expiration_month" : 2,
+      "card_expiration_year" : 2029,
+      "card_last_used_time_usec" : 1712285466988968
+    },
+    {
+      "card_number" : "4455200325107132",
+      "card_name" : "Visa",
+      "cardholder_name" : "Visa",
+      "card_expiration_month" : 5,
+      "card_expiration_year" : 2023,
+      "card_last_used_time_usec" : 1659928312758999.8
+    },
+    {
+      "card_number" : "5294155805154107",
+      "card_name" : "MasterCard",
+      "cardholder_name" : "MasterCard",
+      "card_expiration_month" : 4,
+      "card_expiration_year" : 2023,
+      "card_last_used_time_usec" : 1638912945373299
+    },
+    {
+      "card_number" : "4847831771519250",
+      "card_name" : "‏⁨Visa⁩ الخاص بـ ⁨Mousa Asiri ⁩",
+      "cardholder_name" : "‏⁨Visa⁩ الخاص بـ ⁨Mousa Asiri ⁩",
+      "card_expiration_month" : 9,
+      "card_expiration_year" : 2022,
+      "card_last_used_time_usec" : 1622842805662637
+    },
+    {
+      "card_number" : "4847831771689657",
+      "card_name" : "‏⁨‏⁨Visa⁩ الخاص بـ ⁨Mousa Asiri ⁩⁩ ‏(2)",
+      "cardholder_name" : "‏⁨‏⁨Visa⁩ الخاص بـ ⁨Mousa Asiri ⁩⁩ ‏(2)",
+      "card_expiration_month" : 3,
+      "card_expiration_year" : 2023,
+      "card_last_used_time_usec" : 1622842752679748
+    },
+    {
+      "card_number" : "4173237940920771",
+      "card_name" : "‏⁨Visa⁩ الخاص بـ ⁨Musa alhossain⁩",
+      "cardholder_name" : "‏⁨Visa⁩ الخاص بـ ⁨Musa alhossain⁩",
+      "card_expiration_month" : 1,
+      "card_expiration_year" : 2023,
+      "card_last_used_time_usec" : 1582710908864370.8
+    },
+    {
+      "card_number" : "4847832394350628",
+      "card_name" : "Visa",
+      "cardholder_name" : "Visa",
+      "card_expiration_month" : 6,
+      "card_expiration_year" : 2026,
+      "card_last_used_time_usec" : 1779968570486439
+    }
+  ]
+}
